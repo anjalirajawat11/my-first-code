@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.content{
+    text-align: center;
+    background-color: rgb(108, 226, 216);
+    font-size: 2rem;
+    font-style: normal;
+    text-rendering: geometricPrecision;
+    padding: 2rem;
+}

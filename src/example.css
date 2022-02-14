@@ -1,0 +1,145 @@
+.example{
+    background-color:white;
+
+}
+.nav-bar{
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    
+    padding: 0;
+    margin:0;
+}
+.header  {
+    width: 65%;
+    font-size: 30px;
+    display: flex;
+   
+}
+.header h1{
+    margin:0px;
+    padding: 0px;
+}
+.header img{
+    width: 4rem;
+    height: 3rem;
+    padding: 1rem;
+}
+.nav {
+    width: 30%;
+}
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 20px;
+    margin:0px;
+    padding: 0px;
+    cursor: pointer;
+}
+.nav ul li :hover{
+    color: brown;
+}
+.nav button{
+    margin-top:1.3rem;
+    font-size: 1.3rem;
+} 
+.middle{
+    background-color: cadetblue;
+}
+.mern {
+        margin:0;
+        padding:0;
+        
+    }
+    .mern h2{
+        margin:0;
+        letter-spacing: 3rem;
+        font-size:4rem;
+        text-align: center;
+    }
+.mern1 ul{
+    list-style: none;
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    cursor: pointer;
+    
+}
+.mern1 ul li :hover{
+    background-color: white;
+    transform: rotate(-20deg);
+}
+.about{
+    margin:0 10rem 0 10rem;
+    border-radius: 5rem;
+}
+/* .about h3{
+    font-size: 2rem;
+    text-align: center;
+} */
+.about p{
+    margin-left: 15rem;
+    margin-right: 15rem;
+    font-size: 1.3rem;
+
+} 
+.mongo{
+    background-color: rgb(241, 149, 149);
+    color:white;
+    border-radius: 10rem;
+    height: 20rem;
+}
+.mongo h3{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+.mongo :hover{
+    color: rgb(81, 12, 145);
+
+}
+.icon ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+    
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    margin:0px;
+    padding: 0px;
+    height: 15rem;
+    margin-top: 5rem;
+}
+.last{
+    text-align: center;
+    margin-top: 8rem;
+}
+.icon li{
+    margin-top: 2rem;
+    font-size: 1.2rem;
+}
+.icon ul :hover{
+    
+    background-color: rgb(241, 149, 149);
+    transform: rotate(-20deg);
+    border-radius: 1rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
